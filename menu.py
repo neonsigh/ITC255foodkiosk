@@ -14,6 +14,6 @@ class Menu():
         return self.itemPrice
 
     def __str__(self):
-        return self.itemName + " ......" + self.itemPrice
+        return self.itemName
 
 
